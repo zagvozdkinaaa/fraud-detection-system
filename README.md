@@ -173,3 +173,34 @@ This demonstrates how computer vision can complement classical fraud detection s
 - Added biometric identity verification
 
 ![Confusion Matrix](images/confusion_matrix.png)
+
+## Tech Stack
+
+**Programming**
+
+- Python
+
+**Data Processing**
+
+- pandas
+- NumPy
+
+**Visualization**
+
+- Matplotlib
+- Seaborn
+
+**Machine Learning**
+
+- Scikit-learn
+- XGBoost
+
+**Explainability**
+
+- SHAP
+
+**Deep Learning**
+
+- TensorFlow
+- Keras
+- MobileNetV2
